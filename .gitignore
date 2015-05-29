@@ -1,3 +1,12 @@
+*.war
+*.DS_Store
+*.classpath*
+*.settings*
+.*
+
+#Intellij project file
 *.iml
-.idea/*
+*.class
+*.pyc
+
 
