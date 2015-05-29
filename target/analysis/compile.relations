@@ -1,0 +1,20 @@
+products:
+   src/main/java/examples/JavaNetworkWordCount.java -> target/classes/examples/JavaNetworkWordCount$1.class
+   src/main/java/examples/JavaNetworkWordCount.java -> target/classes/examples/JavaNetworkWordCount$2.class
+   src/main/java/examples/JavaNetworkWordCount.java -> target/classes/examples/JavaNetworkWordCount$3.class
+   src/main/java/examples/JavaNetworkWordCount.java -> target/classes/examples/JavaNetworkWordCount.class
+binary dependencies:
+   src/main/java/examples/JavaNetworkWordCount.java -> /Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/jre/lib/rt.jar
+   src/main/java/examples/JavaNetworkWordCount.java -> /Users/HoangYen/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar
+   src/main/java/examples/JavaNetworkWordCount.java -> /Users/HoangYen/.m2/repository/org/apache/spark/spark-core_2.10/1.3.1/spark-core_2.10-1.3.1.jar
+   src/main/java/examples/JavaNetworkWordCount.java -> /Users/HoangYen/.m2/repository/org/apache/spark/spark-streaming_2.10/1.3.1/spark-streaming_2.10-1.3.1.jar
+   src/main/java/examples/JavaNetworkWordCount.java -> /Users/HoangYen/.m2/repository/org/scala-lang/scala-library/2.10.4/scala-library-2.10.4.jar
+source dependencies:
+
+external dependencies:
+
+class names:
+   src/main/java/examples/JavaNetworkWordCount.java -> examples.JavaNetworkWordCount
+   src/main/java/examples/JavaNetworkWordCount.java -> examples.JavaNetworkWordCount$1
+   src/main/java/examples/JavaNetworkWordCount.java -> examples.JavaNetworkWordCount$2
+   src/main/java/examples/JavaNetworkWordCount.java -> examples.JavaNetworkWordCount$3
